@@ -3,6 +3,19 @@
     <channel>
         <title>Fyndr</title>
         <item>
+            <title>0.5.0</title>
+            <pubDate>Wed, 15 Jul 2026 18:51:23 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Les notes de version s'affichent maintenant dans la fenêtre de mise à jour et sur GitHub</li>
+<li>Fyndr ne demande plus l'accès aux données d'autres applications lors du calcul des tailles de dossiers (paquets  et dossier  exclus)</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.5.0/Fyndr-0.5.0.zip" length="3034746" type="application/octet-stream" sparkle:edSignature="Bjgg0md6OwwI3DZlTkomhlR1IghdKp00/aFTjttWFNFwPC/x1xnbV2v7lCsc2jxwruR1gGDf7NyF7vVWz8/oBA=="/>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Wed, 15 Jul 2026 17:41:14 +0000</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -17,14 +30,6 @@
             <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.3.0/Fyndr-0.3.0.zip" length="3009802" type="application/octet-stream" sparkle:edSignature="TtemcRtttyndk2Pak9QpgXF8bDunp3EdREg03RCXrk9vgsRkXjJE7w5+cv3uwF6suFn2gAnfr/aPhPnT/eb3Ag=="/>
-        </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Wed, 15 Jul 2026 15:46:42 +0000</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.2.0/Fyndr-0.2.0.zip" length="2989727" type="application/octet-stream" sparkle:edSignature="J1BNBNDchjP6OBMZMqmLXQbeZQW1jzdE4R91kLrSurWZjlOwpk0fTPLYitEG7ciQDr08BdPz1OakHh6Q+BIiAQ=="/>
         </item>
         <item>
             <title>0.1.0</title>
