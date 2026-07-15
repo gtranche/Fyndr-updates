@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Fyndr</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 07 Jul 2026 09:18:29 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.1.0/Fyndr-0.1.0.zip" length="3018861" type="application/octet-stream" sparkle:edSignature="WQjoL7Eunv0BgWB+Z85LR/H8IFEgWJ+98FM/EW3QjuEbH7dBVNh1DnUbs+C13epc/MHjMoQ+dtQDUsPO/n20AQ=="/>
+        </item>
+    </channel>
+</rss>
