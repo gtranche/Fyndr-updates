@@ -3,6 +3,20 @@
     <channel>
         <title>Fyndr</title>
         <item>
+            <title>0.8.0</title>
+            <pubDate>Wed, 15 Jul 2026 19:38:16 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Français</h3><ul>
+<li>Nouveau menu contextuel « Ouvrir avec » : choisis une application spécifique pour ouvrir un fichier, ou parcours `/Applications` pour en choisir une autre</li>
+</ul><h3>English</h3><ul>
+<li>New "Open With" context menu: pick a specific app to open a file with, or browse `/Applications` to choose another one</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.8.0/Fyndr-0.8.0.zip" length="3053899" type="application/octet-stream" sparkle:edSignature="qphncghq9MRxagG1NAl6z7onefV1FfI2Mjy/TPVimuuHDu6L0gBVZwJYO/e/4eT+JOsIJ1OyDfbY+toHhmLwCQ=="/>
+        </item>
+        <item>
             <title>0.7.0</title>
             <pubDate>Wed, 15 Jul 2026 19:20:11 +0000</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -28,19 +42,6 @@
 ]]></description>
             <sparkle:releaseNotesLink xml:lang="en">https://gtranche.github.io/Fyndr-updates/Fyndr-0.6.0.en.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.6.0/Fyndr-0.6.0.zip" length="3034746" type="application/octet-stream" sparkle:edSignature="9ZcU/p+afMJd8wc4p9PnMWCCEAxTCcEyJxvwl2WxEkZu9w4PsW7ZUBPzHU3RAQVk5Iu8wPSNy1rnx90ssniMDg=="/>
-        </item>
-        <item>
-            <title>0.5.0</title>
-            <pubDate>Wed, 15 Jul 2026 18:51:23 +0000</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-<li>Les notes de version s'affichent maintenant dans la fenêtre de mise à jour et sur GitHub</li>
-<li>Fyndr ne demande plus l'accès aux données d'autres applications lors du calcul des tailles de dossiers (paquets `.app` et dossier `~/Library` exclus)</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.5.0/Fyndr-0.5.0.zip" length="3034746" type="application/octet-stream" sparkle:edSignature="Bjgg0md6OwwI3DZlTkomhlR1IghdKp00/aFTjttWFNFwPC/x1xnbV2v7lCsc2jxwruR1gGDf7NyF7vVWz8/oBA=="/>
         </item>
         <item>
             <title>0.1.0</title>
