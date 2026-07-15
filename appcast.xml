@@ -3,6 +3,19 @@
     <channel>
         <title>Fyndr</title>
         <item>
+            <title>0.6.0</title>
+            <pubDate>Wed, 15 Jul 2026 19:06:05 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Le journal des modifications est maintenant bilingue (français / anglais)</li>
+</ul>
+]]></description>
+            <sparkle:releaseNotesLink xml:lang="en">https://gtranche.github.io/Fyndr-updates/Fyndr-0.6.0.en.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.6.0/Fyndr-0.6.0.zip" length="3034746" type="application/octet-stream" sparkle:edSignature="9ZcU/p+afMJd8wc4p9PnMWCCEAxTCcEyJxvwl2WxEkZu9w4PsW7ZUBPzHU3RAQVk5Iu8wPSNy1rnx90ssniMDg=="/>
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Wed, 15 Jul 2026 18:51:23 +0000</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -22,14 +35,6 @@
             <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.4.0/Fyndr-0.4.0.zip" length="3033191" type="application/octet-stream" sparkle:edSignature="v49HZiqr1u+mfzffEV72PVbeAStcrqnI+SQYx6H57pmWw/5HUzkgEOIHo4IiuiEOVHxML0YmemyckZGR4+ApCA=="/>
-        </item>
-        <item>
-            <title>0.3.0</title>
-            <pubDate>Wed, 15 Jul 2026 16:24:02 +0000</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.3.0/Fyndr-0.3.0.zip" length="3009802" type="application/octet-stream" sparkle:edSignature="TtemcRtttyndk2Pak9QpgXF8bDunp3EdREg03RCXrk9vgsRkXjJE7w5+cv3uwF6suFn2gAnfr/aPhPnT/eb3Ag=="/>
         </item>
         <item>
             <title>0.1.0</title>
