@@ -10,7 +10,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
 <li>Les notes de version s'affichent maintenant dans la fenêtre de mise à jour et sur GitHub</li>
-<li>Fyndr ne demande plus l'accès aux données d'autres applications lors du calcul des tailles de dossiers (paquets  et dossier  exclus)</li>
+<li>Fyndr ne demande plus l'accès aux données d'autres applications lors du calcul des tailles de dossiers (paquets `.app` et dossier `~/Library` exclus)</li>
 </ul>
 ]]></description>
             <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.5.0/Fyndr-0.5.0.zip" length="3034746" type="application/octet-stream" sparkle:edSignature="Bjgg0md6OwwI3DZlTkomhlR1IghdKp00/aFTjttWFNFwPC/x1xnbV2v7lCsc2jxwruR1gGDf7NyF7vVWz8/oBA=="/>
