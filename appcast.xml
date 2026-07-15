@@ -3,6 +3,14 @@
     <channel>
         <title>Fyndr</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Wed, 15 Jul 2026 16:24:02 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.3.0/Fyndr-0.3.0.zip" length="3009802" type="application/octet-stream" sparkle:edSignature="TtemcRtttyndk2Pak9QpgXF8bDunp3EdREg03RCXrk9vgsRkXjJE7w5+cv3uwF6suFn2gAnfr/aPhPnT/eb3Ag=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Wed, 15 Jul 2026 15:46:42 +0000</pubDate>
             <sparkle:version>3</sparkle:version>
