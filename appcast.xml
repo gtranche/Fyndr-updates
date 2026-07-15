@@ -3,6 +3,20 @@
     <channel>
         <title>Fyndr</title>
         <item>
+            <title>0.7.0</title>
+            <pubDate>Wed, 15 Jul 2026 19:20:11 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Français</h3><ul>
+<li>Les notes de version affichent maintenant toujours le français et l'anglais ensemble, plutôt que de dépendre d'une détection de langue peu fiable sur certaines machines</li>
+</ul><h3>English</h3><ul>
+<li>Release notes now always show both French and English together, instead of relying on language detection that turned out unreliable on some machines</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.7.0/Fyndr-0.7.0.zip" length="3034743" type="application/octet-stream" sparkle:edSignature="EOaXdWhcqGjjfBDrJbaqInouMwcfAi1QI+g94GEg03imhonUTKt3UJSbiP4lLYT9DFsNPg9n70/jEuIBnqeMBA=="/>
+        </item>
+        <item>
             <title>0.6.0</title>
             <pubDate>Wed, 15 Jul 2026 19:06:05 +0000</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -27,14 +41,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.5.0/Fyndr-0.5.0.zip" length="3034746" type="application/octet-stream" sparkle:edSignature="Bjgg0md6OwwI3DZlTkomhlR1IghdKp00/aFTjttWFNFwPC/x1xnbV2v7lCsc2jxwruR1gGDf7NyF7vVWz8/oBA=="/>
-        </item>
-        <item>
-            <title>0.4.0</title>
-            <pubDate>Wed, 15 Jul 2026 17:41:14 +0000</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.4.0/Fyndr-0.4.0.zip" length="3033191" type="application/octet-stream" sparkle:edSignature="v49HZiqr1u+mfzffEV72PVbeAStcrqnI+SQYx6H57pmWw/5HUzkgEOIHo4IiuiEOVHxML0YmemyckZGR4+ApCA=="/>
         </item>
         <item>
             <title>0.1.0</title>
