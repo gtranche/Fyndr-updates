@@ -3,6 +3,22 @@
     <channel>
         <title>Fyndr</title>
         <item>
+            <title>0.9.1</title>
+            <pubDate>Thu, 16 Jul 2026 08:47:15 +0000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Français</h3><ul>
+<li>La décompression d'une archive crée maintenant systématiquement un dossier portant son nom, au lieu de risquer d'éparpiller son contenu directement dans le dossier courant</li>
+<li>Double-cliquer sur une archive .zip décompresse maintenant directement dans Fyndr (et y sélectionne le résultat), au lieu de passer par l'Utilitaire d'archives du système qui sélectionnait le résultat dans Finder</li>
+</ul><h3>English</h3><ul>
+<li>Decompressing an archive now always creates a folder named after it, instead of risking spilling its contents loose into the current folder</li>
+<li>Double-clicking a .zip now decompresses directly within Fyndr (and selects the result there), instead of handing off to the system's Archive Utility, which selected the result in Finder</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.9.1/Fyndr-0.9.1.zip" length="3129316" type="application/octet-stream" sparkle:edSignature="8AVgDw62QzK+lvXbWr++eqMYjRGS7fckGu1kJ3YvYfX24t+jI2634oHjO4Lbs5muPIfGk7j8fVjIpxT/DGV/CA=="/>
+        </item>
+        <item>
             <title>0.9.0</title>
             <pubDate>Thu, 16 Jul 2026 08:16:26 +0000</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -33,20 +49,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.8.0/Fyndr-0.8.0.zip" length="3053899" type="application/octet-stream" sparkle:edSignature="qphncghq9MRxagG1NAl6z7onefV1FfI2Mjy/TPVimuuHDu6L0gBVZwJYO/e/4eT+JOsIJ1OyDfbY+toHhmLwCQ=="/>
-        </item>
-        <item>
-            <title>0.7.0</title>
-            <pubDate>Wed, 15 Jul 2026 19:20:11 +0000</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Français</h3><ul>
-<li>Les notes de version affichent maintenant toujours le français et l'anglais ensemble, plutôt que de dépendre d'une détection de langue peu fiable sur certaines machines</li>
-</ul><h3>English</h3><ul>
-<li>Release notes now always show both French and English together, instead of relying on language detection that turned out unreliable on some machines</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.7.0/Fyndr-0.7.0.zip" length="3034743" type="application/octet-stream" sparkle:edSignature="EOaXdWhcqGjjfBDrJbaqInouMwcfAi1QI+g94GEg03imhonUTKt3UJSbiP4lLYT9DFsNPg9n70/jEuIBnqeMBA=="/>
         </item>
         <item>
             <title>0.1.0</title>
