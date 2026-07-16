@@ -3,6 +3,24 @@
     <channel>
         <title>Fyndr</title>
         <item>
+            <title>0.9.0</title>
+            <pubDate>Thu, 16 Jul 2026 08:16:26 +0000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Français</h3><ul>
+<li>Nouvelle file d'attente des opérations : les copies, déplacements, compressions et décompressions se traitent maintenant une à la fois, avec un panneau dans la barre latérale montrant ce qui attend, ce qui est en cours et ce qui est terminé</li>
+<li>« Nouveau dossier » demande maintenant le nom directement (au lieu d'un renommage après coup), accessible aussi via le raccourci Cmd+Maj+N, et sélectionne le dossier créé en le faisant défiler à l'écran</li>
+<li>Correction d'un bug où la sélection dans la liste de fichiers pouvait être effacée silencieusement juste après l'ouverture d'un dossier</li>
+</ul><h3>English</h3><ul>
+<li>New file operation queue: copies, moves, compressions and decompressions now run one at a time, with a sidebar panel showing what's waiting, running, and done</li>
+<li>"New Folder" now asks for the name directly (instead of renaming afterward), also available via Cmd+Shift+N, and selects and scrolls to the newly created folder</li>
+<li>Fixed a bug where the file list's selection could be silently cleared shortly after opening a folder</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.9.0/Fyndr-0.9.0.zip" length="3126525" type="application/octet-stream" sparkle:edSignature="LbG9fTcxPSX+Uk+Y3MDTAJwTeVsu9A/GqfwrGyTmPzAY1s2bwcaXFG9CVxAELvHUERuzk/ktp2jRgvGIolgMBA=="/>
+        </item>
+        <item>
             <title>0.8.0</title>
             <pubDate>Wed, 15 Jul 2026 19:38:16 +0000</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -29,19 +47,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.7.0/Fyndr-0.7.0.zip" length="3034743" type="application/octet-stream" sparkle:edSignature="EOaXdWhcqGjjfBDrJbaqInouMwcfAi1QI+g94GEg03imhonUTKt3UJSbiP4lLYT9DFsNPg9n70/jEuIBnqeMBA=="/>
-        </item>
-        <item>
-            <title>0.6.0</title>
-            <pubDate>Wed, 15 Jul 2026 19:06:05 +0000</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-<li>Le journal des modifications est maintenant bilingue (français / anglais)</li>
-</ul>
-]]></description>
-            <sparkle:releaseNotesLink xml:lang="en">https://gtranche.github.io/Fyndr-updates/Fyndr-0.6.0.en.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.6.0/Fyndr-0.6.0.zip" length="3034746" type="application/octet-stream" sparkle:edSignature="9ZcU/p+afMJd8wc4p9PnMWCCEAxTCcEyJxvwl2WxEkZu9w4PsW7ZUBPzHU3RAQVk5Iu8wPSNy1rnx90ssniMDg=="/>
         </item>
         <item>
             <title>0.1.0</title>
