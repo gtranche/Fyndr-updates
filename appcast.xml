@@ -3,6 +3,26 @@
     <channel>
         <title>Fyndr</title>
         <item>
+            <title>0.9.2</title>
+            <pubDate>Mon, 03 Aug 2026 16:43:29 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Français</h3><ul>
+<li>La file d'attente des opérations affiche maintenant une vraie progression (octets copiés, estimation du temps restant) pendant les copies/déplacements, au lieu de rester bloquée sur « Calcul de la taille… »</li>
+<li>Chaque opération dans la file d'attente peut maintenant être annulée</li>
+<li>Un échec de copie ou de déplacement (par exemple : plus assez d'espace disponible) s'affiche maintenant correctement comme un échec, au lieu de sembler terminé avec succès</li>
+<li>L'espace disque disponible affiché dans la barre latérale se met maintenant à jour après une opération sur les fichiers ou au retour sur Fyndr, au lieu de rester figé</li>
+</ul><h3>English</h3><ul>
+<li>The operation queue now shows real progress (bytes copied, estimated time remaining) during copies/moves, instead of staying stuck on "Calcul de la taille…"</li>
+<li>Any operation in the queue can now be cancelled</li>
+<li>A failed copy or move (e.g. not enough free space) now correctly shows as failed, instead of appearing to complete successfully</li>
+<li>The sidebar's available disk space now updates after a file operation or when switching back to Fyndr, instead of staying stale</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.9.2/Fyndr-0.9.2.zip" length="3196418" type="application/octet-stream" sparkle:edSignature="fPzRtJEenwr/R4Mj2bFktKi97y910qJRvtSlFrnCtffk35XdqRF0amJ2pC3+cV0GJeL+63i3iC3eb4t/GN/7Dg=="/>
+        </item>
+        <item>
             <title>0.9.1</title>
             <pubDate>Thu, 16 Jul 2026 08:47:15 +0000</pubDate>
             <sparkle:version>11</sparkle:version>
@@ -35,20 +55,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.9.0/Fyndr-0.9.0.zip" length="3126525" type="application/octet-stream" sparkle:edSignature="LbG9fTcxPSX+Uk+Y3MDTAJwTeVsu9A/GqfwrGyTmPzAY1s2bwcaXFG9CVxAELvHUERuzk/ktp2jRgvGIolgMBA=="/>
-        </item>
-        <item>
-            <title>0.8.0</title>
-            <pubDate>Wed, 15 Jul 2026 19:38:16 +0000</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Français</h3><ul>
-<li>Nouveau menu contextuel « Ouvrir avec » : choisis une application spécifique pour ouvrir un fichier, ou parcours `/Applications` pour en choisir une autre</li>
-</ul><h3>English</h3><ul>
-<li>New "Open With" context menu: pick a specific app to open a file with, or browse `/Applications` to choose another one</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/gtranche/Fyndr-updates/releases/download/v0.8.0/Fyndr-0.8.0.zip" length="3053899" type="application/octet-stream" sparkle:edSignature="qphncghq9MRxagG1NAl6z7onefV1FfI2Mjy/TPVimuuHDu6L0gBVZwJYO/e/4eT+JOsIJ1OyDfbY+toHhmLwCQ=="/>
         </item>
         <item>
             <title>0.1.0</title>
